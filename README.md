@@ -1,8 +1,4 @@
-# My Awesome Book
+# Introduction
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.this 
-
-
-
-this is a test 20190416
+ This Gitbooks contains the RUN DMC related materials, issues and plans.
 
