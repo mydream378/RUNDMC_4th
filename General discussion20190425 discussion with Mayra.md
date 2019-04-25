@@ -33,4 +33,5 @@ cognitive impairment and dementia
     -  MRI booking/ Book the small car first/outpatietn room reservation/
     - Time slot for the outpatient clinic room (only Wed, Friday) in advance
     - Try to do NPO and MRI scan in one day
+     
 
