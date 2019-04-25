@@ -11,22 +11,22 @@ Projects background from Mayra:
     > * _Brain atrophy and strategic lesion location increases risk of parkinsonism in cerebral small vessel disease_
     >   * [https://www.sciencedirect.com/science/article/pii/S1353802018304917?via%3Dihub](https://www.sciencedirect.com/science/article/pii/S1353802018304917?via%3Dihub)
 
-  * Parkinsonism; score &gt; 10,then, refer to outpatient for the confirmation [link](https://note.youdao.com/)
-  * dementia diagnosis: evaluate the dementai score first, then refer to the outpatient for confirmation
+  * Parkinsonism; score &gt; 10,then, refer to outpatient for the confirmation 
+  * dementia diagnosis: evaluate the dementia score first, then refer to the outpatient for confirmation
 
-Mayra projects working on:
+**Mayra projects working on:**
 
-* Cogntive perforamance between patients with and without Parkinsonism 
+* Cognitive performance between patients with and without Parkinsonism 
 
   cognitive impairment and dementia
 
-* Parkinsonism, gait and SVD; **motor reserve** comparable to \( brain reserver and cognitive brain \), maybe collaboration with Mayra
+* Parkinsonism, gait and SVD; **motor reserve** comparable to \( brain reservation and cognitive brain \), maybe collaboration with Mayra
 * Anil and esther works on brain network
 * Tips from Mayra:
-  * Frist collection data, then data handling, finally statistical learning
+  * First collection data, then data handling, finally statistical learning
   * After data collection, send the letter to GP later on to follow the status of the patients
 * Data collection :
-  * MRI booking/ Book the small car first/outpatietn room reservation/
+  * MRI booking/ Book the small car first/outpatient room reservation/
   * Time slot for the outpatient clinic room \(only Wed, Friday\) in advance
   * Try to do NPO and MRI scan in one day
 
