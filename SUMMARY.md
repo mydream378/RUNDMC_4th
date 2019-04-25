@@ -2,5 +2,7 @@
 
 * [Introduction](README.md)
 
-## General discussion
+## Discussion
+
+* [20190425 talk with Mayra](discussion/20190425-talk-with-mayra.md)
 
