@@ -2,8 +2,6 @@
 
 [20190418 points talked with Kim and Annemieke.note](note://WEB56a8a5b8f07cf4bbbdb043a286c9e576)
 
-[20190418 points talked with Kim and Annemieke.note](note://WEB56a8a5b8f07cf4bbbdb043a286c9e576)
-
 Talk with Kim and Annemieke  
 
 
