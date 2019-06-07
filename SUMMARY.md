@@ -2,6 +2,8 @@
 
 * [Introduction](README.md)
 * [Main links for RUN DMC](main-links-for-run-dmc.md)
+* [20190607 discussion with Niels P. Riksen on blood samples and SVD](20190607-discussion-with-niels-p.-riksen-on-blood-samples-and-svd.md)
+* [20190604 points discussed with FE](20190604-points-discussed-with-fe.md)
 * [20190513 points to be discussed with FE](20190513-points-to-be-discussed-with-fe.md)
 * [20190507 points discussed with Frank-Erik](20190507-points-discussed-with-frank-erik.md)
 * [20190430 PhD project brainstorming session\_full version](20190430-phd-project-brainstorming-session_full-version.md)
